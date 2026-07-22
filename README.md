@@ -78,7 +78,7 @@ To better understand the data distribution and model performance, several visual
 ![Continuous Features vs Target](./Graphical_Results/Continuous_features_vs_Target_distribution.png)
 
 ### 4. Categorical Features vs Target Distribution
-![Categorical Features vs Target](./Graphical_Results/Categorical_features_vs_Target_distribution(1).png)
+![Categorical Features vs Target](./Graphical_Results/Categorical_features_vs_Target_distribution.png)
 
 ### 5. Comparison Between Original and Transformed Data
 ![Original vs Transformed](./Graphical_Results/Comparision_beyween_Original_&_Transformed.png)
