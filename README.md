@@ -22,7 +22,7 @@ The project focuses on:
 Cardiac-Diagnosis/
 │
 ├── Cardiac Diagnosis.ipynb
-├── Graphical_results/
+├── Graphical_Results/
 │   ├── Categorical_features_vs_Target_distribution.png
 │   ├── Comparision_beyween_Original_&_Transformed.png
 │   ├── Continuous_features_vs_Target_distribution.png
@@ -69,22 +69,22 @@ Given the medical nature of the task, **Recall** was prioritized, ensuring that 
 To better understand the data distribution and model performance, several visual analyses were conducted.
 
 ### 1. Distribution of Continuous Variables
-![Distribution of Continuous Variables](./Graphical_results/Distribution_of_Continuous_variables.png)
+![Distribution of Continuous Variables](./Graphical_Results/Distribution_of_Continuous_variables.png)
 
 ### 2. Distribution of Categorical Variables
-![Distribution of Categorical Variables](./Graphical_results/Distribution_of_categorical_variables.png)
+![Distribution of Categorical Variables](./Graphical_Results/Distribution_of_categorical_variables.png)
 
 ### 3. Continuous Features vs Target Distribution
-![Continuous Features vs Target](./Graphical_results/Continuous_features_vs_Target_distribution.png)
+![Continuous Features vs Target](./Graphical_Results/Continuous_features_vs_Target_distribution.png)
 
 ### 4. Categorical Features vs Target Distribution
-![Categorical Features vs Target](./Graphical_results/Categorical_features_vs_Target_distribution.png)
+![Categorical Features vs Target](./Graphical_Results/Categorical_features_vs_Target_distribution.png)
 
 ### 5. Comparison Between Original and Transformed Data
-![Original vs Transformed](./Graphical_results/Comparision_beyween_Original_&_Transformed.png)
+![Original vs Transformed](./Graphical_Results/Comparision_beyween_Original_&_Transformed.png)
 
 ### 6. Recall Comparison for Different Models
-![Recall Comparison](./Graphical_results/Recall_for_diff_Models.png)
+![Recall Comparison](./Graphical_Results/Recall_for_diff_Models.png)
 
 ---
 
